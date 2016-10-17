@@ -6,6 +6,7 @@ public class GitPluginTest {
 
 		System.out.println("hello git");
 		System.out.println("added line");
+		System.out.println("added 3rd line");
 	}
 
 }
